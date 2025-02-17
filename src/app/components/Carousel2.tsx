@@ -5,7 +5,8 @@ export default function Carousel2() {
      <div className="bg-emerald-700">
         <div className="flex flex-col md:flex-row text-white items-center lg:pl-52 gap-8">
         
-          <div className="pt-44 items-center">
+          <div className="pt-44 items-center text-center lg:text-left">
+            <h5 className="text-xl font-normal">SUMMER 2020</h5>
             <h1 className="text-5xl md:text-6xl font-bold py-8 ">Vita Classic</h1>
             <h1 className="text-5xl md:text-6xl font-bold pb-8">Product</h1>
             <p className="text-sm font-normal mt-4 w-80">
